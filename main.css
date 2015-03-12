@@ -32,10 +32,10 @@ body {
   overflow-x: hidden;
   min-width: 100vw;
   background-color: hsl(0, 100%, 68%);
-  -webkit-background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
-  -moz-background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
-  -o-background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
-  background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
+  -webkit-background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
+  -moz-background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
+  -o-background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
+  background-image: radial-gradient(hsl(0, 100%, 68%), hsl(1, 100%, 65%), hsl(3, 100%, 62%), hsl(6, 100%, 59%), hsl(10, 100%, 56%)), url(assets/textured-paper.png);
    -webkit-background-blend-mode: multiply;
    -moz-background-blend-mode: multiply;
    -o-background-blend-mode: multiply;
@@ -68,21 +68,21 @@ img {
 
 #home {
 	background-color: hsl(197, 100%, 68%);
-	-webkit-background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
-	background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
-	-webkit-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
+	background-image: radial-gradient(hsl(197, 100%, 68%), hsl(198, 100%, 64%), hsl(200, 100%, 62%), hsl(203, 100%, 57%), hsl(207, 100%, 46%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
 	background-blend-mode: multiply;
 }
 #provider {
 	background-color: hsl(269, 100%, 68%);
-	-webkit-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);	
-	background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);	
+	background-image: radial-gradient(hsl(269, 100%, 68%), hsl(270, 100%, 64%), hsl(272, 100%, 62%), hsl(275, 100%, 57%), hsl(279, 100%, 46%)), url(assets/textured-paper.png);
 	-webkit-background-blend-mode: multiply;
 	-moz-background-blend-mode: multiply;
 	-o-background-blend-mode: multiply;	
@@ -91,10 +91,10 @@ img {
 
 #art {
   background-color: hsl(341, 100%, 68%);
-	-webkit-background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
-	background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
+	background-image: radial-gradient(hsl(341, 100%, 68%), hsl(342, 100%, 64%), hsl(344, 100%, 62%), hsl(347, 100%, 57%), hsl(351, 100%, 46%)), url(assets/textured-paper.png);
 	-webkit-background-blend-mode: multiply;
 	-moz-background-blend-mode: multiply;
 	-o-background-blend-mode: multiply;	
@@ -103,10 +103,10 @@ img {
 
 #lunch {
 	background-color: hsl(53, 100%, 68%);
-	-webkit-background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
-	background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
+	background-image: radial-gradient(hsl(53, 100%, 68%), hsl(54, 100%, 64%), hsl(56, 100%, 62%), hsl(59, 100%, 57%), hsl(63, 100%, 46%)), url(assets/textured-paper.png);
 	-webkit-background-blend-mode: multiply;
 	-moz-background-blend-mode: multiply;
 	-o-background-blend-mode: multiply;
@@ -115,10 +115,10 @@ img {
 
 #play {
  	background-color: hsl(125, 100%, 68%);
-	-webkit-background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
-	background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
+	background-image: radial-gradient(hsl(125, 100%, 68%), hsl(126, 100%, 64%), hsl(128, 100%, 62%), hsl(131, 100%, 57%), hsl(135, 100%, 46%)), url(assets/textured-paper.png);
 	-webkit-background-blend-mode: multiply;
 	-moz-background-blend-mode: multiply;
 	-o-background-blend-mode: multiply;
@@ -128,10 +128,10 @@ img {
 
 #contact {
   	background-color: hsl(259, 100%, 34%);
-	-webkit-background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
-	-moz-background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
-	-o-background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
-	background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
+	-webkit-background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
+	-moz-background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
+	-o-background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
+	background-image: radial-gradient(hsl(259, 100%, 34%), hsl(260, 100%, 30%), hsl(262, 100%, 25%), hsl(265, 100%, 20%), hsl(269, 100%, 15%)), url(assets/textured-paper.png);
 	-webkit-background-blend-mode: multiply;
 	-moz-background-blend-mode: multiply;
 	-o-background-blend-mode: multiply;
