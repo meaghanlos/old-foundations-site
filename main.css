@@ -55,7 +55,7 @@ img {
   position: relative;
   height: 100vh;
   padding: 0;
-  max-width: 800px;
+  max-width: 800px;gah
   box-shadow: 0px 0px 10px 0px #553, 0px 2px 10px 0px #553;
 }
 @media (min-width: 800px){
@@ -148,6 +148,9 @@ img {
   left: calc(50vw + 20%);
 }
 */
+@media (min-width: 800px;) {
+
+}
 #sun {
 	position: absolute;
 	right: .3em;
@@ -298,7 +301,7 @@ img {
 		bottom: -25%;
 	}
 	to { 
-		bottom: 17vh;
+		bottom: 17%;
 	}
 }
 @-o-keyframes house-pop{
@@ -306,7 +309,7 @@ img {
 		bottom: -25%;
 	}
 	to { 
-		bottom: 17vh;
+		bottom: 17%;
 	}
 }
 @-webkit-keyframes house-pop {
@@ -314,7 +317,7 @@ img {
 		bottom: -25%;
 	}
 	to { 
-		bottom: 17vh;
+		bottom: 17%;
 	}
 }
 @keyframes house-pop{
@@ -322,7 +325,7 @@ img {
 		bottom: -25%;
 	}
 	to { 
-		bottom: 17vh;
+		bottom: 17%;
 	}
 }
 #house {
@@ -349,7 +352,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: -10vh;
+		bottom: -10%;
 	}
 }
 @-webkit-keyframes hill-pop {
@@ -357,7 +360,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: -10vh;
+		bottom: -10%;
 	}
 }
 @keyframes hill-pop {
@@ -365,7 +368,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: 0vh;
+		bottom: 0%;
 	}
 }
 #hill {
@@ -385,7 +388,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: 15vh;
+		bottom: 15%;
 	}
 }
 @-o-keyframes tree-pop{
@@ -393,7 +396,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: 15vh;
+		bottom: 15%;
 	}
 }
 @-webkit-keyframes tree-pop{
@@ -401,7 +404,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: 15vh;
+		bottom: 15%;
 	}
 }
 @keyframes tree-pop{
@@ -409,7 +412,7 @@ img {
 		bottom: -25%;
 	}
 	to {
-		bottom: 15vh;
+		bottom: 15%;
 	}
 }
 #tree {
@@ -430,8 +433,8 @@ img {
 ******************/
 #provider img {
 	display: block;
-	max-height: 25%;
-	-webkit-clip-path: circle(40% at 50% 50%);
+	max-height: 200px;
+	-webkit-clip-path: circle(45% at 48% 50%);
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -444,7 +447,7 @@ img {
 	padding-top: 15px;
 	font-size: 3.5vh;
 	margin-bottom: 0;
-	text-align: center;
+	text-align: left;
 }
 @media (min-width: 600px) {
 	#provider ul li {
@@ -491,7 +494,7 @@ img {
 	margin-top: 10%;
 }
 #art li {
-	font-size: 1.1em;
+	font-size: 1.5em;
 	list-style-type: none;
 	text-align: center;
 }
@@ -546,9 +549,9 @@ img {
 }
 #play img {
 	display: block;
-	max-height: 50%;
 	margin-left: auto;
 	margin-right: auto;
+	height: 50%;
 }
 
 #play p {
@@ -574,6 +577,10 @@ img {
 	}
 	#outdoor-wrap {
 		right: 60px;
+	}
+	#indoor-wrap img, #outdoor-wrap img {
+		padding-top: 15%;
+		padding-bottom: 25%;
 	}
 }
 /*****CONTACT*****
@@ -618,6 +625,18 @@ img {
 	}
 
 
+}
+.contact-info {
+	font-size: .95em;
+	padding-top: 75px;
+}
+#phone-number {
+	float: left;
+	padding-left: 17%;
+}
+#email-address {
+	float: right;
+	padding-right: 12%;
 }
 
 /*<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>         is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>*/
